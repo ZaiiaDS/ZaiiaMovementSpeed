@@ -1,6 +1,6 @@
 # ZaiiaMovementSpeed
 
-Lightweight movement speed display for **Turtle WoW 1.18.1** (API 1.12).
+Lightweight movement speed display for **Turtle-like servers**
 
 ## Requirements
 
