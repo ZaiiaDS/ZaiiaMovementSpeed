@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: ZaiiaMovementSpeed
+## Notes: Shows movement speed. For Turtle-like servers. Requires ClassicAPI.dll
+## Author: Zaiia
+## Version: 4.5
+## SavedVariables: ZaiiaMovementSpeedSettings
+ZaiiaMovementSpeed.lua
