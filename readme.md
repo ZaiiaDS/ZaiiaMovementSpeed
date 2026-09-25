@@ -16,8 +16,10 @@ Lightweight movement speed display for **Turtle WoW 1.18.1** (API 1.12).
 ## Install
 
 1. Copy the `ZaiiaMovementSpeed` folder into `Interface\AddOns\`.
-2. Make sure `ClassicAPI.dll` is loaded.
-3. `/reload` or restart the client.
+   If the folder is named "ZaiiaMovementSpeed-master" (GitHub default),
+   rename it to "ZaiiaMovementSpeed" — without the "-master" suffix.
+3. Make sure `ClassicAPI.dll` is loaded.
+4. `/reload` or restart the client.
 
 ## Commands
 
